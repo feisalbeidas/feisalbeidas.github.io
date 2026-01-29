@@ -1,6 +1,6 @@
 ---
-title: "Home"
-permalink: /
+title: "Intro"
+permalink: /intro/
 author_profile: true
 ---
 
