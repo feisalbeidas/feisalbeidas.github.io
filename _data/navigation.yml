@@ -9,7 +9,7 @@
 
 main:
   - title: "Intro"
-    url: /intro/
+    url: /
   - title: "Contact"
     url: /contact/
   

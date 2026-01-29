@@ -1,6 +1,6 @@
 ---
 title: "Intro"
-permalink: /intro/
+permalink: /
 author_profile: true
 ---
 
